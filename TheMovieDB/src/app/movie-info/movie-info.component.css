@@ -1,4 +1,5 @@
 .mainBox{
     display: flex;
     flex-direction: row;
+    background-color: #82E7E8;
 }
