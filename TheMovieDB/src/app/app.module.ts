@@ -7,6 +7,7 @@ import { FooterBarComponent } from './footer-bar/footer-bar.component';
 import { CoverComponent } from './cover/cover.component';
 import { DetailsComponent } from './details/details.component';
 import { TimesComponent } from './times/times.component';
+import { MovieInfoComponent } from './movie-info/movie-info.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { TimesComponent } from './times/times.component';
     FooterBarComponent,
     CoverComponent,
     DetailsComponent,
-    TimesComponent
+    TimesComponent,
+    MovieInfoComponent
   ],
   imports: [
     BrowserModule
